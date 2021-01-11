@@ -130,7 +130,7 @@
 
 计算题：
 
-1、![image-20210111164711589](image-20210111164711589.png)
+1、![image-20210111164711589](https://github.com/WangVkwind/Data_Mining_Review/blob/master/image-20210111164711589.png)
 解：![image-20210111165647703](image-20210111165647703.png)
 
 2、![image-20210111165734382](image-20210111165734382.png)
